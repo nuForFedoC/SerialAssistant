@@ -1,0 +1,9 @@
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\bin\Debug\SerialAssistant.exe
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\bin\Debug\SerialAssistant.pdb
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csprojResolveAssemblyReference.cache
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.Cache
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.exe
+D:\D\lyx\C#\C# src\SerialAssistant\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.pdb
